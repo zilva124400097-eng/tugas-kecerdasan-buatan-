@@ -1,0 +1,11 @@
+,,val_MAE,val_MAE,test_MAE,test_MAE,test_MAPE,test_MAPE,natal_MAE,natal_MAE
+,,mean,std,mean,std,mean,std,mean,std
+model,konfigurasi,,,,,,,,
+ANN,acuan,65.3,,63.6,,20.1,,262.8,
+ANN,terbaik,65.3,,63.6,,20.1,,262.8,
+GRU,acuan,117.2,,116.7,,32.4,,140.6,
+GRU,terbaik,117.2,,116.7,,32.4,,140.6,
+LSTM,acuan,117.0,,109.3,,34.0,,209.8,
+LSTM,terbaik,117.0,,109.3,,34.0,,209.8,
+RNN,acuan,98.8,,88.4,,27.2,,146.0,
+RNN,terbaik,98.8,,88.4,,27.2,,146.0,
